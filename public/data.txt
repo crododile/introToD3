@@ -1,0 +1,301 @@
+#	MOVIE (DISTRIBUTOR)	RELEASE YEAR	GROSS	ADJUSTED GROSS
+1	Gone with the Wind (MGM)	1939	$198,676,568	$1,899,526,000
+2	Star Wars (Fox)	1977	$460,998,882	$1,386,074,000
+3	The Sound of Music (Fox)	1965	$163,214,076	$1,253,751,000
+4	E.T.: The Extra-Terrestrial (Universal)	1982	$435,110,890	$1,135,776,000
+5	Titanic (Paramount)	1997	$658,672,302	$1,123,262,000
+6	The Ten Commandments (1956) (Paramount)	1956	$85,400,591	$1,062,536,000
+7	Jaws (Universal)	1975	$260,000,591	$1,025,229,000
+8	Snow White and the Seven Dwarfs (Disney / RKO)	1937	$184,925,342	$965,960,000
+9	Doctor Zhivago (MGM)	1965	$111,721,461	$827,171,000
+10	Avatar (Fox)	2009	$760,507,625	$820,682,000
+11	Ben-Hur (1959) (MGM)	1959	$74,000,111	$808,452,000
+12	The Empire Strikes Back (Fox)	1980	$290,271,915	$789,309,000
+13	The Exorcist (Warner Bros.)	1973	$204,671,948	$785,796,000
+14	Return of the Jedi (Fox)	1983	$309,306,996	$758,214,000
+15	Mary Poppins (Disney)	1964	$102,272,145	$748,812,000
+16	Jurassic Park (Universal)	1993	$402,453,925	$746,585,000
+17	The Lion King (Disney)	1994	$422,783,937	$742,018,000
+18	Star Wars: Episode I - The Phantom Menace (Fox)	1999	$474,544,249	$737,022,000
+19	The Sting (Universal)	1973	$159,616,911	$720,252,000
+20	Raiders of the Lost Ark (Paramount)	1981	$248,159,971	$712,467,000
+21	The Graduate (AVCO Embassy)	1967	$104,901,861	$668,922,000
+22	Forrest Gump (Paramount)	1994	$329,694,570	$653,362,000
+23	The Godfather (Paramount)	1972	$134,966,044	$641,640,000
+24	Marvel's The Avengers (Disney)	2012	$623,357,910	$636,671,000
+25	The Dark Knight (Warner Bros.)	2008	$534,858,444	$605,459,000
+26	Grease (Paramount)	1978	$188,389,752	$605,074,000
+27	My Fair Lady (Warner Bros.)	1964	$72,432,371	$596,691,000
+28	Shrek 2 (DreamWorks)	2004	$441,226,414	$577,644,000
+29	Ghostbusters (Columbia)	1984	$238,632,654	$576,189,000
+30	Around the World in Eighty Days (1956) (United Artists)	1956	$42,000,032	$571,992,000
+31	Beverly Hills Cop (1984) (Paramount)	1984	$234,760,312	$568,037,000
+32	Spider-Man (Sony / Columbia)	2002	$403,706,983	$565,885,000
+33	Independence Day (Fox)	1996	$306,169,262	$563,157,000
+34	Love Story (Paramount)	1970	$106,397,305	$558,070,000
+35	Home Alone (Fox)	1990	$285,761,269	$550,531,000
+36	Butch Cassidy and the Sundance Kid (Fox)	1969	$102,308,525	$543,032,000
+37	The Robe (Fox)	1953	$36,000,342	$532,145,000
+38	Airport (Universal)	1970	$100,489,626	$527,082,000
+39	Pirates of the Caribbean: Dead Man's Chest (Disney)	2006	$423,315,199	$525,428,000
+40	Cleopatra (1963) (Fox)	1963	$57,777,949	$520,050,000
+41	Batman (1989) (Warner Bros.)	1989	$252,101,403	$513,681,000
+42	The Lord of the Rings: The Return of the King (New Line)	2003	$377,027,863	$508,330,000
+43	American Graffiti (Universal)	1973	$115,000,796	$504,165,000
+44	101 Dalmatians (1961) (Disney)	1961	$144,880,212	$502,243,000
+45	Finding Nemo (Disney)	2003	$380,842,919	$500,030,000
+46	Thunderball (United Artists)	1965	$63,595,501	$497,903,000
+47	Blazing Saddles (Warner Bros.)	1974	$119,500,420	$497,260,000
+48	National Lampoon's Animal House (Universal)	1978	$141,600,129	$491,969,000
+49	Tootsie (Columbia)	1982	$177,200,382	$490,012,000
+50	Spider-Man 2 (Sony / Columbia)	2004	$373,524,311	$489,010,000
+51	The Passion of the Christ (Newmarket)	2004	$370,773,682	$485,389,000
+52	Back to the Future (Universal)	1985	$210,609,043	$482,326,000
+53	Lady and the Tramp (Disney)	1955	$88,300,200	$482,324,000
+54	Star Wars: Episode III - Revenge of the Sith (Fox)	2005	$380,270,448	$482,309,000
+55	The Lord of the Rings: The Two Towers (New Line)	2002	$341,786,621	$478,984,000
+56	The Greatest Show on Earth (Paramount)	1952	$34,000,029	$478,228,000
+57	Bambi (Disney / RKO)	1942	$102,797,843	$474,023,000
+58	Close Encounters of the Third Kind (Columbia)	1977	$132,088,195	$471,777,000
+59	The Sixth Sense (Disney)	1999	$293,506,977	$471,582,000
+60	The Jungle Book (1967) (Disney)	1967	$135,475,744	$470,799,000
+61	Superman (Warner Bros.)	1978	$40,925,251	$466,322,000
+62	Smokey and the Bandit (Universal)	1977	$126,737,978	$462,052,000
+63	The Towering Inferno (Fox)	1974	$107,082,379	$460,625,000
+64	The Dark Knight Rises (Warner Bros.)	2012	$448,139,099	$457,710,000
+65	Harry Potter and the Sorcerer's Stone (Warner Bros.)	2001	$317,575,047	$456,972,000
+66	Peter Pan (1953) (Disney / RKO)	1953	$87,404,669	$456,140,000
+67	The Lord of the Rings: The Fellowship of the Ring (New Line)	2001	$314,776,383	$452,815,000
+68	One Flew Over the Cuckoo's Nest (United Artists)	1975	$112,000,194	$448,552,000
+69	Rocky (United Artists)	1976	$117,235,327	$447,475,000
+70	Twister (1996) (Warner Bros.)	1996	$241,721,884	$444,614,000
+71	Men in Black (Sony / Columbia)	1997	$250,690,756	$444,034,000
+72	Cinderella (1950) (Disney / RKO)	1950	$88,000,466	$440,035,000
+73	Pinocchio (1940) (Disney / RKO)	1940	$87,000,862	$437,730,000
+74	Transformers: Revenge of the Fallen (Paramount / DreamWorks)	2009	$402,111,347	$435,889,000
+75	Star Wars: Episode II - Attack of the Clones (Fox)	2002	$310,676,344	$435,483,000
+76	Indiana Jones and the Temple of Doom (Paramount)	1984	$179,870,426	$435,222,000
+77	Goldfinger (United Artists)	1964	$51,081,614	$433,608,000
+78	White Christmas (Paramount)	1954	$26,000,050	$431,388,000
+79	Mrs. Doubtfire (Fox)	1993	$219,195,038	$430,448,000
+80	M.A.S.H. (Fox)	1970	$81,600,139	$428,005,000
+81	West Side Story (MGM)	1961	$43,656,435	$427,719,000
+82	Toy Story 3 (Disney)	2010	$415,004,880	$427,629,000
+83	Aladdin (Disney)	1992	$217,350,045	$425,847,000
+84	The Hunger Games: Catching Fire (Lionsgate)	2013	$424,668,047	$424,668,000
+85	How the West Was Won (MGM / Cinerama)	1963	$46,000,853	$422,235,000
+86	Ghost (Paramount)	1990	$217,631,141	$419,275,000
+87	South Pacific (Fox)	1958	$35,000,130	$418,456,000
+88	The Best Years of Our Lives (RKO)	1946	$23,650,796	$417,988,000
+89	The Hunger Games (Lionsgate)	2012	$408,010,692	$416,724,000
+90	Pirates of the Caribbean: The Curse of the Black Pearl (Disney)	2003	$305,413,236	$411,777,000
+91	Iron Man 3 (Disney)	2013	$409,013,994	$409,014,000
+92	The Lost World: Jurassic Park (Universal)	1997	$229,086,940	$405,768,000
+93	The Bridge on the River Kwai (Columbia)	1957	$33,000,228	$405,230,000
+94	It's a Mad, Mad, Mad, Mad World (MGM)	1963	$46,332,543	$405,044,000
+95	The Poseidon Adventure (Fox)	1972	$84,563,142	$404,411,000
+96	Monsters, Inc. (Disney)	2001	$289,762,882	$402,913,000
+97	Indiana Jones and the Last Crusade (Paramount)	1989	$197,171,932	$401,756,000
+98	Frozen (2013) (Disney)	2013	$400,738,009	$400,737,000
+99	From Here to Eternity (Columbia)	1953	$27,000,106	$399,109,000
+100	Spider-Man 3 (Sony / Columbia)	2007	$336,530,590	$397,674,000
+101	Terminator 2: Judgment Day (TriStar)	1991	$204,843,975	$395,576,000
+102	Toy Story 2 (Disney)	1999	$245,852,199	$395,015,000
+103	Samson and Delilah (1949) (Paramount)	1949	$26,000,725	$394,385,000
+104	Quo Vadis (MGM)	1951	$27,000,260	$392,397,000
+105	How the Grinch Stole Christmas (Universal)	2000	$260,044,175	$392,238,000
+106	Harry Potter and the Deathly Hallows: Part 2 (Warner Bros.)	2011	$381,011,219	$390,621,000
+107	Top Gun (Paramount)	1986	$179,800,601	$390,414,000
+108	Shrek (DreamWorks)	2001	$267,665,130	$385,153,000
+109	This Is the Army (Warner Bros.)	1943	$18,000,842	$385,105,000
+110	Crocodile Dundee (Paramount)	1986	$174,803,471	$383,060,000
+111	Shrek the Third (Paramount / DreamWorks)	2007	$322,719,455	$381,353,000
+112	The Matrix Reloaded (Warner Bros.)	2003	$281,553,328	$379,607,000
+113	Giant (Warner Bros.)	1956	$30,000,694	$379,560,000
+114	Guess Who's Coming to Dinner (Columbia)	1967	$56,666,355	$377,623,000
+115	Transformers (Paramount / DreamWorks)	2007	$319,246,139	$377,249,000
+116	Saving Private Ryan (DreamWorks)	1998	$216,335,032	$371,776,000
+117	Young Frankenstein (Fox)	1974	$86,273,138	$371,112,000
+118	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (Disney)	2005	$291,710,571	$369,985,000
+119	Fantasia (Disney / RKO)	1940	$80,000,076	$369,895,000
+120	Gremlins (Warner Bros.)	1984	$153,083,972	$369,770,000
+121	Despicable Me 2 (Universal)	2013	$368,065,385	$368,065,000
+122	Harry Potter and the Goblet of Fire (Warner Bros.)	2005	$290,013,999	$367,834,000
+123	Fiddler on the Roof (United Artists)	1971	$78,000,558	$367,308,000
+124	Harry Potter and the Chamber of Secrets (Warner Bros.)	2002	$261,988,168	$367,236,000
+125	Beauty and the Beast (1991) (Disney)	1991	$218,967,717	$366,039,000
+126	Pirates of the Caribbean: At World's End (Disney)	2007	$309,420,379	$365,638,000
+127	Meet the Fockers (Universal)	2004	$279,261,547	$365,603,000
+128	Song of the South (Disney / RKO)	1946	$65,000,964	$363,300,000
+129	Transformers: Dark of the Moon (Paramount / DreamWorks)	2011	$352,390,543	$361,278,000
+130	The Fugitive (1993) (Warner Bros.)	1993	$183,875,616	$361,006,000
+131	Iron Man (Paramount)	2008	$318,412,855	$360,543,000
+132	The Bells of St. Mary's (RKO)	1945	$19,000,749	$359,233,000
+133	Indiana Jones and the Kingdom of the Crystal Skull (Paramount)	2008	$317,101,243	$359,058,000
+134	An Officer and a Gentleman (Paramount)	1982	$129,795,263	$358,924,000
+135	Toy Story (Disney)	1995	$191,796,910	$358,256,000
+136	The Longest Day (Fox)	1962	$38,000,575	$358,124,000
+137	Funny Girl (Columbia)	1968	$58,723,719	$357,684,000
+138	Dances with Wolves (Orion)	1990	$184,208,763	$354,886,000
+139	Sergeant York (Warner Bros.)	1941	$15,000,212	$354,492,000
+140	Lawrence of Arabia (Columbia)	1962	$43,000,852	$354,274,000
+141	Cast Away (Fox)	2000	$233,632,386	$352,399,000
+142	Tom Jones (United Artists)	1963	$38,000,090	$352,019,000
+143	Kramer Vs. Kramer (Columbia)	1979	$106,260,774	$349,755,000
+144	Armageddon (Disney)	1998	$201,578,020	$349,431,000
+145	Three Men and a Baby (Disney)	1987	$167,780,861	$348,864,000
+146	Rocky III (MGM/UA)	1982	$125,049,038	$345,799,000
+147	Harry Potter and the Order of the Phoenix (Warner Bros.)	2007	$292,004,517	$345,058,000
+148	Rambo: First Blood Part II (TriStar)	1985	$150,415,193	$344,473,000
+149	Alice in Wonderland (2010) (Disney)	2010	$334,191,110	$344,357,000
+150	Batman Forever (Warner Bros.)	1995	$184,134,515	$344,141,000
+151	Pretty Woman (Disney)	1990	$178,406,922	$343,707,000
+152	Saturday Night Fever (Paramount)	1977	$94,213,584	$343,477,000
+153	Earthquake (Universal)	1974	$79,666,565	$342,693,000
+154	The Incredibles (Disney)	2004	$261,441,580	$342,273,000
+155	Rain Man (MGM/UA)	1988	$172,825,476	$341,866,000
+156	Home Alone 2: Lost in New York (Fox)	1992	$173,585,649	$340,060,000
+157	Duel in the Sun (Selznick Releasing)	1946	$20,408,894	$338,609,000
+158	My Big Fat Greek Wedding (IFC Films)	2002	$241,438,568	$338,430,000
+159	20000 Leagues Under The Sea (Disney)	1954	$25,000,134	$337,496,000
+160	Bonnie and Clyde (Warner Bros.)	1967	$50,000,109	$333,197,000
+161	Mission: Impossible (Paramount)	1996	$180,981,223	$332,892,000
+162	On Golden Pond (Universal)	1981	$119,285,747	$331,513,000
+163	Austin Powers: The Spy Who Shagged Me (New Line)	1999	$206,040,556	$331,049,000
+164	Bruce Almighty (Universal)	2003	$242,829,757	$327,397,000
+165	Harry Potter and the Half-Blood Prince (Warner Bros.)	2009	$301,959,187	$327,324,000
+166	Harry Potter and the Prisoner of Azkaban (Warner Bros.)	2004	$249,538,372	$326,691,000
+167	For Whom the Bell Tolls (Paramount)	1943	$16,000,242	$325,802,000
+168	Fatal Attraction (Paramount)	1987	$156,645,905	$325,711,000
+169	Rush Hour 2 (New Line)	2001	$226,164,771	$325,436,000
+170	Mission: Impossible II (Paramount)	2000	$215,409,290	$324,913,000
+171	Apollo 13 (Universal)	1995	$173,837,410	$324,072,000
+172	Patton (Fox)	1970	$61,749,814	$323,887,000
+173	Iron Man 2 (Paramount)	2010	$312,128,345	$321,623,000
+174	The Twilight Saga: New Moon (Summit)	2009	$296,639,747	$321,557,000
+175	Liar Liar (Universal)	1997	$181,410,469	$321,322,000
+176	2001: A Space Odyssey (MGM)	1968	$56,954,648	$320,032,000
+177	Robin Hood: Prince of Thieves (Warner Bros.)	1991	$165,493,447	$319,588,000
+178	Signs (Disney)	2002	$227,966,979	$319,546,000
+179	Beverly Hills Cop II (Paramount)	1987	$153,665,069	$319,513,000
+180	Batman Returns (Warner Bros.)	1992	$162,831,945	$318,993,000
+181	Up (Disney)	2009	$293,003,689	$317,617,000
+182	Superman II (Warner Bros.)	1981	$108,185,706	$316,385,000
+183	What's Up, Doc? (Warner Bros.)	1972	$66,000,276	$315,635,000
+184	The Caine Mutiny (Columbia)	1954	$19,000,988	$315,245,000
+185	9 to 5 (Fox)	1980	$103,290,458	$312,176,000
+186	Night at the Museum (Fox)	2006	$250,863,213	$311,377,000
+187	The Firm (Paramount)	1993	$158,369,885	$311,001,000
+188	Skyfall (Sony / Columbia)	2012	$304,360,277	$310,860,000
+189	The Twilight Saga: Eclipse (Summit)	2010	$300,531,751	$309,673,000
+190	The Hobbit: An Unexpected Journey (Warner Bros. / New Line)	2012	$303,003,568	$309,475,000
+191	Porky's (Fox)	1982	$111,289,698	$306,681,000
+192	Air Force One (Sony / Columbia)	1997	$172,956,394	$306,348,000
+193	Stir Crazy (Columbia)	1980	$101,300,186	$306,159,000
+194	There's Something About Mary (Fox)	1998	$176,489,373	$305,940,000
+195	A Star Is Born (1976) (Warner Bros.)	1976	$80,000,605	$305,352,000
+196	Harry Potter and the Deathly Hallows: Part 1 (Warner Bros.)	2010	$295,983,305	$304,987,000
+197	Peyton Place (Fox)	1957	$24,000,418	$304,875,000
+198	Who Framed Roger Rabbit (Disney)	1988	$154,112,403	$304,850,000
+199	I Am Legend (Warner Bros.)	2007	$256,393,949	$302,977,000
+200	Cars (Disney)	2006	$244,082,964	$302,961,000
+201	Inception (Warner Bros.)	2010	$292,576,195	$301,476,000
+202	The Hangover (Warner Bros.)	2009	$277,322,696	$300,618,000
+203	The Jolson Story (Columbia)	1946	$17,000,423	$300,457,000
+204	Lethal Weapon 2 (Warner Bros.)	1989	$147,307,168	$300,154,000
+205	The Dirty Dozen (MGM)	1967	$45,000,686	$299,877,000
+206	The Goodbye Girl (Warner Bros.)	1977	$82,000,470	$298,951,000
+207	Austin Powers in Goldmember (New Line)	2002	$213,243,496	$298,909,000
+208	The Twilight Saga: Breaking Dawn - Part 2 (Lionsgate / Summit)	2012	$292,324,737	$298,568,000
+209	Going My Way (Paramount)	1944	$15,000,543	$297,439,000
+210	War of the Worlds (Paramount)	2005	$234,280,479	$297,145,000
+211	Every Which Way But Loose (Warner Bros.)	1978	$85,196,458	$296,003,000
+212	Swiss Family Robinson (Disney)	1960	$40,356,408	$295,714,000
+213	Valley of the Dolls (Fox)	1967	$44,000,822	$293,213,000
+214	Rocky IV (MGM/UA)	1985	$127,873,963	$292,848,000
+215	The Carpetbaggers (Paramount)	1964	$34,000,702	$291,672,000
+216	True Lies (Fox)	1994	$146,282,462	$291,489,000
+217	Man of Steel (Warner Bros.)	2013	$291,045,518	$291,046,000
+218	X-Men: The Last Stand (Fox)	2006	$234,362,795	$290,896,000
+219	The Mummy Returns (Universal)	2001	$202,019,384	$290,694,000
+220	X2: X-Men United (Fox)	2003	$214,949,672	$289,808,000
+221	The Santa Clause (Disney)	1994	$144,833,975	$288,602,000
+222	The Guns of Navarone (Columbia)	1961	$28,000,468	$288,585,000
+223	Psycho (1960) (Universal)	1960	$28,000,892	$288,405,000
+224	The Twilight Saga: Breaking Dawn - Part 1 (Lionsgate / Summit)	2011	$281,287,133	$288,306,000
+225	Platoon (Orion)	1986	$138,530,553	$288,210,000
+226	Pearl Harbor (Disney)	2001	$198,542,513	$285,690,000
+227	Look Who's Talking (TriStar)	1989	$140,088,166	$285,444,000
+228	The Amityville Horror (1979) (AIP)	1979	$86,432,881	$284,491,000
+229	Guardians of the Galaxy (Disney)	2014	$284,407,854	$284,408,000
+230	Heaven Can Wait (1978) (Paramount)	1978	$81,640,699	$283,648,000
+231	Lethal Weapon 3 (Warner Bros.)	1992	$144,731,292	$283,534,000
+232	Jerry Maguire (Sony / TriStar)	1996	$153,962,324	$283,194,000
+233	Gladiator (2000) (DreamWorks)	2000	$187,705,497	$283,049,000
+234	You Only Live Twice (United Artists)	1967	$43,084,308	$282,738,000
+235	Jaws 2 (Universal)	1978	$81,766,987	$282,263,000
+236	A Bug's Life (Disney)	1998	$162,798,279	$282,207,000
+237	Rocky II (United Artists)	1979	$85,182,286	$280,377,000
+238	The Waterboy (Disney)	1998	$161,491,939	$279,942,000
+239	To Sir, with Love (Columbia)	1967	$42,000,404	$279,885,000
+240	Terms of Endearment (Paramount)	1983	$108,423,643	$279,836,000
+241	Sayonara (Warner Bros.)	1957	$22,000,115	$279,469,000
+242	Star Trek (Paramount)	2009	$257,730,024	$279,379,000
+243	Arthur (1981) (Orion)	1981	$95,461,724	$279,174,000
+244	Shane (Paramount)	1953	$20,000,357	$279,159,000
+245	The Love Bug (Disney)	1969	$51,264,491	$278,989,000
+246	The Blind Side (Warner Bros.)	2009	$255,959,000	$277,460,000
+247	A Few Good Men (Columbia)	1992	$141,340,483	$276,891,000
+248	King Kong (2005) (Universal)	2005	$218,135,164	$276,668,000
+249	The Odd Couple (Paramount)	1968	$44,527,570	$276,341,000
+250	Mister Roberts (Warner Bros.)	1955	$18,000,552	$276,113,000
+251	The Shaggy Dog (1959) (Disney)	1959	$27,000,309	$276,072,000
+252	What Women Want (2000) (Paramount)	2000	$182,811,707	$275,744,000
+253	The Matrix (Warner Bros.)	1999	$171,479,060	$275,520,000
+254	The Perfect Storm (Warner Bros.)	2000	$182,618,117	$275,452,000
+255	Tarzan (1999) (Disney)	1999	$171,091,147	$274,897,000
+256	Gravity (Warner Bros.)	2013	$274,092,705	$274,093,000
+257	Sister Act (Disney)	1992	$139,605,188	$273,492,000
+258	Star Trek: The Motion Picture (Paramount)	1979	$82,258,086	$270,752,000
+259	The Da Vinci Code (Sony / Columbia)	2006	$217,536,399	$270,011,000
+260	All the President's Men (Warner Bros.)	1976	$70,600,641	$269,473,000
+261	El Cid (Allied Artists)	1961	$26,000,000	$269,139,000
+262	The Bourne Ultimatum (Universal)	2007	$227,471,923	$268,800,000
+263	Monsters University (Disney)	2013	$268,492,764	$268,493,000
+264	The Amazing Spider-Man (Sony / Columbia)	2012	$262,030,663	$267,627,000
+265	Men in Black II (Sony / Columbia)	2002	$190,418,608	$266,914,000
+266	Sleeping Beauty (1959) (Disney)	1959	$51,600,287	$266,514,000
+267	Honey, I Shrunk the Kids (Disney)	1989	$130,724,390	$266,363,000
+268	Apocalypse Now (United Artists)	1979	$83,471,114	$266,102,000
+269	Wedding Crashers (New Line)	2005	$209,218,166	$265,358,000
+270	Pocahontas (Disney)	1995	$141,579,941	$264,608,000
+271	Ocean's Eleven (Warner Bros.)	2001	$183,417,424	$263,926,000
+272	As Good as It Gets (Sony / TriStar)	1997	$148,478,260	$262,991,000
+273	Big Daddy (Sony / Columbia)	1999	$163,479,811	$262,666,000
+274	Alien (Fox)	1979	$80,931,087	$262,525,000
+275	Batman Begins (Warner Bros.)	2005	$206,852,432	$261,985,000
+276	Charlie and the Chocolate Factory (Warner Bros.)	2005	$206,459,266	$261,859,000
+277	The Hangover Part II (Warner Bros.)	2011	$254,464,305	$260,882,000
+278	Jurassic Park III (Universal)	2001	$181,171,459	$260,695,000
+279	Bullitt (Warner Bros.)	1968	$42,000,000	$260,656,000
+280	Teenage Mutant Ninja Turtles (1990) (New Line)	1990	$135,265,256	$260,594,000
+281	The Flintstones (Universal)	1994	$130,560,663	$260,161,000
+282	National Treasure: Book of Secrets (Disney)	2007	$219,964,410	$259,929,000
+283	Captain America: The Winter Soldier (Disney)	2014	$259,766,572	$259,767,000
+284	Despicable Me (Universal)	2010	$251,513,985	$259,165,000
+285	Planet of the Apes (2001) (Fox)	2001	$180,011,204	$259,025,000
+286	The Hobbit: The Desolation of Smaug (Warner Bros. / New Line)	2013	$258,366,855	$258,367,000
+287	Hancock (Sony / Columbia)	2008	$227,946,076	$258,106,000
+288	The LEGO Movie (Warner Bros.)	2014	$257,760,692	$257,750,000
+289	Alvin and the Chipmunks (Fox)	2007	$217,326,629	$256,812,000
+290	Midnight Cowboy (United Artists)	1969	$44,785,478	$256,413,000
+291	The French Connection (Fox)	1971	$51,700,937	$254,745,000
+292	Coming to America (Paramount)	1988	$128,152,468	$253,499,000
+293	WALL-E (Disney)	2008	$223,808,838	$253,421,000
+294	Dumb and Dumber (New Line)	1994	$127,175,036	$253,415,000
+295	The Silence of the Lambs (Orion)	1991	$130,742,537	$252,479,000
+296	The Karate Kid Part II (Columbia)	1986	$115,103,443	$252,235,000
+297	Airplane! (Paramount)	1980	$83,453,906	$252,223,000
+298	Ransom (Disney)	1996	$136,492,894	$251,060,000
+299	Meet the Parents (Universal)	2000	$166,244,845	$250,755,000
+300	101 Dalmatians (1996) (Disney)	1996	$136,189,436	$250,502,000
