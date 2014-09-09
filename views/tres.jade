@@ -1,0 +1,35 @@
+extends layout
+
+block content
+	h1 Pre-processing
+	p Learn what structure is there already or give data some structure
+	p.
+		Because we're using D3, data structure is largely a consideration of 
+		ordering the data to be consumable by D3.
+		
+	 
+	h2 Shipment
+	h3 server
+	code(style='white-space:pre;').
+		router.get('/jsonTest', function(req, res){
+			res.send([
+				{ food: "eggs", partner: "bacon" },
+				{ food: "pancakes", partner: "syrup" }
+			])
+		})
+	p NB. The data points must eventually be put in an array
+	h3 client
+	code(style='white-space:pre;').
+		d3.json('jsonTest', function(theData){
+		  console.log(theData);
+		  //...code for viz
+		})
+		
+	ul
+		li d3.xhr - request a resource using XMLHttpRequest.
+		li d3.text - request a text file.
+		li d3.json - request a JSON blob.
+		li d3.html - request an HTML document fragment.
+		li d3.xml - request an XML document fragment.
+		li d3.csv - request a comma-separated values (CSV) file.
+		li d3.tsv - request a tab-separated values (TSV) file.

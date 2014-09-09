@@ -1,0 +1,58 @@
+extends layout
+
+block content
+	div.movie
+
+	div#container
+
+	code.
+		var curr2Int = function (cash) {
+			return parseInt( cash.replace(/\$|,/g, ''))
+		}
+		
+	code.
+		var xScale = d3.scale.linear()
+		  .domain([0,2000000000])
+		  .range([0,880])
+
+	code.
+		d3.tsv('bo', function(dataset){
+			var root = d3.select('#container');
+			var w = 900;
+			var h = 3300;
+			var root = d3.select('#container');
+			var svg = root.append('svg')
+			.attr('width', w)
+			.attr('height', h);
+
+
+	code.new.
+		var setWidthField = function(field){
+			var bars = svg.selectAll('rect').data(dataset, function(d){ return d["#"]});
+			bars.transition()
+			.duration(400)
+			.attr('width', function(d,i){
+				return xScale( curr2Int( d[field]))
+			})
+		}
+	
+		var changeWidthButton = function(field){
+			return d3.select('div.movie').insert('button', ':first-child')
+			.on('click', function(){
+				setWidthField(field);
+			})		
+		}
+
+		changeWidthButton("GROSS").text("SHOW GROSS");
+		changeWidthButton("ADJUSTED GROSS").text("SHOW ADJUSTED GROSS");
+		
+	code.
+		var bars = svg.selectAll('rect').data(dataset);
+		var newbars = bars.enter().append('rect')
+		
+		bars
+		.attr('x', function(d,i){ return 0 })
+		.attr('y', function(d,i){ return i * 10})
+		.attr('height', function(d,i){ return 8 })
+		.attr('width', function(d,i){ return xScale(curr2Int(d["ADJUSTED GROSS"]))})
+	})

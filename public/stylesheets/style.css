@@ -3,6 +3,35 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+#container{
+	position: absolute;
+	right: 0;
+	top: 20;
+}
+
 a {
   color: #00B7FF;
+}
+code{
+	white-space:pre;
+}
+
+code.new{
+	background-color: lightgreen;
+}
+
+code.remove{
+	background-color: red;
+}
+
+
+rect{
+	fill: green;
+	stroke: black;
+}
+
+div.movie{
+	position: fixed;
+	top: 50px;
+	right: 80px;
 }

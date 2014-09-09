@@ -3,8 +3,16 @@ d3.tsv("final/bo", function(dataSet){
 	var w = 900;
 	var h = 3300;
 	
+	var svg = root.append('svg')
+	.attr('width', w)
+	.attr('height', h)
+	
+	var curr2Int = function (cash) {
+		return parseInt( cash.replace(/\$|,/g, ''))
+	}
+	
 	var reorderButton = function(field){
-		return root.append('button')
+		return d3.select('div.movie').append('button')
 		.on('click', function() {
 			dataSet.sort(function(a, b) { 
 				return (curr2Int(b[field]) - curr2Int(a[field])); 
@@ -26,21 +34,14 @@ d3.tsv("final/bo", function(dataSet){
 	
 	reorderButton("GROSS").text("Sort by Gross Income");
 	reorderButton("ADJUSTED GROSS").text("Sort by Gross Adjusted Income");
-	
-	var svg = root.append('svg')
-	.attr('width', w)
-	.attr('height', h)
-	
-	var curr2Int = function (cash) {
-		return parseInt( cash.replace(/\$|,/g, ''))
-	}
+	reorderButton("RELEASE YEAR").text("Sort by Year");
 
 	var xScale = d3.scale.linear()
 	.domain([0, 2000000000 ])
 	.range([0, 890 ]);
 	
 	var setWidthField = function(field){
-		var bars = svg.selectAll('rect').data(dataSet);
+		var bars = svg.selectAll('rect').data(dataSet, function(d){ return d["#"]});
 		bars.transition()
 		.duration(400)
 		.attr('width', function(d,i){
@@ -49,7 +50,7 @@ d3.tsv("final/bo", function(dataSet){
 	}
 	
 	var changeWidthButton = function(field){
-		return root.insert('button', ':first-child')
+		return d3.select('div.movie').insert('button', ':first-child')
 		.on('click', function(){
 			setWidthField(field);
 		})		
@@ -66,7 +67,13 @@ d3.tsv("final/bo", function(dataSet){
 		.style('fill', 'green')
 		.style('stroke', 'black')
 		.on('mouseover', function(d){
-			d3.select("p.movie").text(d["MOVIE (DISTRIBUTOR)"])
+			d3.select("div.movie").select('p')
+			.html(
+				d["MOVIE (DISTRIBUTOR)"] +"<br>" +
+				"GROSS:  " + d["GROSS"] +"<br>" +
+				"ADJUSTED GROSS:  " + d["ADJUSTED GROSS"] +"<br>" +
+				"YEAR:  " + d["RELEASE YEAR"]
+		 )
 		})
 
 		bars.attr('y', function(d,i){ return i * 10 })

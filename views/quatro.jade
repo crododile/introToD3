@@ -1,0 +1,30 @@
+extends layout
+
+block content
+	h1 Enter-Update-Exit
+	div#container
+	
+	p enter
+	code.
+		d3.select('#container')
+		.selectAll('p')
+		.data([1,2,3,4,5])
+		.enter()
+		.append('p')
+		.text(function(d){ return String(d)})
+		
+	p update
+	code.
+		d3.select('#container')
+		.selectAll('p')
+		.data(['a','b','c'])
+		.text(function(d){ return d })
+		
+	p exit
+	code.
+		d3.select('#container')
+		.selectAll('p')
+		.data(['a','b','c'])
+		.exit()
+		.style('color', 'red')
+		
