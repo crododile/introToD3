@@ -3,12 +3,6 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-#container{
-	position: absolute;
-	right: 0;
-	top: 20;
-}
-
 a {
   color: #00B7FF;
 }
