@@ -10,6 +10,7 @@ router.get('/', function(req, res) {
 
 router.get('/paths', function(req, res){
 	res.send([
+		{path: '/'},
 		{path: 'uno'},
 		{path:'dos'},
 		{path:'tres'},
