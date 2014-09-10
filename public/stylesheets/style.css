@@ -39,6 +39,8 @@ rect{
 */
 div.movie{
 	position: fixed;
+	background-color:rgba(0, 99, 99, 0.5);
+	color: navy;
 	top: 50px;
 	right: 80px;
 }

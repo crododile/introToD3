@@ -93,9 +93,20 @@ d3.tsv("bostudio", function(dataSet){
 		 )
 		})
 
+		var STUDIO_COLORS ={
+			"MGM":"gold",
+			"Columbia":"blue",
+			"Fox":"green",
+			"Disney":"yellow",
+			"Warner Bros.":"orange",
+			"New Line":"teal",
+			"Paramount":"lightgreen",
+			"Universal":"grey"
+		}
 		bars.attr('x', function(d,i){ return i * 10 })
 		.attr('width', function(d,i){ return 8 })
-		.attr('height', function(d,i){return 0});
+		.attr('height', function(d,i){return 0})
+		.style('fill', function(d){ return STUDIO_COLORS[d["DISTRIBUTOR"]]});
 	}
 	
 	drawChart();
