@@ -1,7 +1,5 @@
 block content
 
-	div#container
-
 	code.
 		d3.tsv('bo', function(dataset){
 			var root = d3.select('#container');
@@ -19,3 +17,5 @@ block content
 			.attr('height', function(d,i){ return 8 })
 			.attr('width', function(d,i){ return d["ADJUSTED GROSS"]})
 		})
+		
+	div#container

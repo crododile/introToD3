@@ -31,12 +31,6 @@ rect{
 	stroke: black;
 }
 
-/*#container{
-	position: absolute;
-	left:0;
-	top: 20px;
-}
-*/
 div.movie{
 	position: fixed;
 	background-color:rgba(0, 99, 99, 0.5);

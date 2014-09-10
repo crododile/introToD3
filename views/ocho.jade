@@ -1,8 +1,6 @@
 block content
 	div.movie
-
-	div#container
-
+	
 	code.
 		var curr2Int = function (cash) {
 			return parseInt( cash.replace(/\$|,/g, ''))
@@ -54,3 +52,5 @@ block content
 		.attr('height', function(d,i){ return 8 })
 		.attr('width', function(d,i){ return xScale(curr2Int(d["ADJUSTED GROSS"]))})
 	})
+	
+	div#container
