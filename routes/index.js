@@ -2,6 +2,7 @@ var express = require('express');
 var router = express.Router();
 var fs = require('fs');
 var dataPath = "./public/data.txt";
+var studioPath = "./public/studios.txt";
 
 /* GET home page. */
 router.get('/', function(req, res) {
@@ -19,7 +20,8 @@ router.get('/paths', function(req, res){
 		{path:'seis'},
 		{path:'siete'},
 		{path:'ocho'},
-		{path:'nueve'}
+		{path:'nueve'},
+		{path:'fin'}
 		])
 })
 
@@ -30,8 +32,17 @@ router.get('/jsonTest', function(req, res){
 
 router.get('/bo', function(req, res){
   fs.readFile( dataPath, "utf8", function (err, data) {
-	  console.log(err);
-      console.log(data);
+		console.log(err);
+		console.log(data);
+	  res.write(data);
+	  res.send();
+  });
+})
+
+router.get('/bostudio', function(req, res){
+  fs.readFile( studioPath, "utf8", function (err, data) {
+		console.log(err);
+		console.log(data);
 	  res.write(data);
 	  res.send();
   });
