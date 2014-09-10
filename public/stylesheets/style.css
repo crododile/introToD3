@@ -26,6 +26,10 @@ code.remove{
 	background-color: red;
 }
 
+nav{
+	height: 1.5em;
+}
+
 rect{
 	fill: lightblue;
 	stroke: black;

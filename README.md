@@ -12,5 +12,4 @@ Of other interest is an api solution that allows a new slide to be easily added 
 by creating the view document and adding a path with the same name to the array of path objects in <br>
 <a href="https://github.com/crododile/introToD3/blob/master/routes/index.js">the index router</a>.<br>
 
-D3 is used to generate the navigation buttons based on that array, and wildcard routing matches views to paths, <br>
-and D3 is used to place the rendered document fragments into the dom for some SPA flavor.
+D3 is used to generate the navigation links based on that array, and wildcard routing matches views to paths.
