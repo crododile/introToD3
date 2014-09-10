@@ -1,5 +1,3 @@
-extends layout
-
 block content
 	code.
 		var curr2Int = function (cash) {
@@ -78,7 +76,7 @@ block content
 		.attr('y', function(d,i){ return i * 10})
 		.attr('height', function(d,i){ return 8 })
 		.attr('width', function(d,i){ return xScale(curr2Int(d["ADJUSTED GROSS"]))})
-	})
+		})
 	
 	div.movie
 

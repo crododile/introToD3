@@ -1,5 +1,3 @@
-extends layout
-
 block content
 	h1 Pre-processing
 	p Learn what structure is there already or give data some structure
@@ -8,9 +6,9 @@ block content
 		ordering the data to be consumable by D3.
 		
 	 
-	h2 Shipment
+	h2 Transfer
 	h3 server
-	code(style='white-space:pre;').
+	code.inline.
 		router.get('/jsonTest', function(req, res){
 			res.send([
 				{ food: "eggs", partner: "bacon" },
@@ -19,7 +17,7 @@ block content
 		})
 	p NB. The data points must eventually be put in an array
 	h3 client
-	code(style='white-space:pre;').
+	code.inline.
 		d3.json('jsonTest', function(theData){
 		  console.log(theData);
 		  //...code for viz

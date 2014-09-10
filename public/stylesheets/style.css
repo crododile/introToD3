@@ -7,7 +7,15 @@ a {
   color: #00B7FF;
 }
 code{
-	white-space:pre;
+	white-space:pre-wrap;
+	/*width: 50%;
+	margin-right: 0;
+	margin-left: auto;
+	display: block;*/
+}
+
+code.inline{
+	display: inline;
 }
 
 code.new{
@@ -18,12 +26,17 @@ code.remove{
 	background-color: red;
 }
 
-
 rect{
-	fill: green;
+	fill: lightblue;
 	stroke: black;
 }
 
+/*#container{
+	position: absolute;
+	left:0;
+	top: 20px;
+}
+*/
 div.movie{
 	position: fixed;
 	top: 50px;

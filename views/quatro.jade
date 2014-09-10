@@ -1,11 +1,9 @@
-extends layout
-
 block content
 	h1 Enter-Update-Exit
 	div#container
 	
 	p enter
-	code.
+	code.inline.
 		d3.select('#container')
 		.selectAll('p')
 		.data([1,2,3,4,5])
@@ -14,14 +12,14 @@ block content
 		.text(function(d){ return String(d)})
 		
 	p update
-	code.
+	code.inline.
 		d3.select('#container')
 		.selectAll('p')
 		.data(['a','b','c'])
 		.text(function(d){ return d })
 		
 	p exit
-	code.
+	code.inline.
 		d3.select('#container')
 		.selectAll('p')
 		.data(['a','b','c'])

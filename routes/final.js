@@ -5,7 +5,7 @@ var dataPath = "./public/data.txt";
 
 /* GET users listing. */
 router.get('/', function(req, res) {
-  res.render('final',{ title: "Graph" })
+  res.render('final', { title: "Graph" })
 });
 
 router.get('/jsonTest', function(req, res){
