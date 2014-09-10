@@ -31,6 +31,12 @@ rect{
 	stroke: black;
 }
 
+svg.right{
+	position: absolute;
+	right: 100px;
+	top: 100px;
+}
+
 div.movie{
 	position: fixed;
 	background-color:rgba(0, 99, 99, 0.5);

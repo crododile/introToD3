@@ -1,5 +1,6 @@
 block content
 	h1 Enter-Update-Exit
+	a(href="http://bost.ocks.org/mike/join/") Mike's Explanation
 	
 	p enter
 	code.inline.
@@ -24,5 +25,9 @@ block content
 		.data(['a','b','c'])
 		.exit()
 		.style('color', 'red')
+		
+	svg(width="500" height="500").right
+		circle(r="110" style="fill: blue; fill-opacity: 0.5" cx="120" cy="250")
+		circle(r="110" style="fill: yellow; fill-opacity: 0.5" cx="220" cy="250")
 		
 	div#container
