@@ -5,7 +5,7 @@ var dataPath = "./public/data.txt";
 
 /* GET home page. */
 router.get('/', function(req, res) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Intro to D3' });
 });
 
 router.get('/paths', function(req, res){
